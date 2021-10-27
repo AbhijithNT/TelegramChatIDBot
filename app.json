@@ -2,7 +2,7 @@
   "name": "Telegram Chat ID Bot",
   "description": "This is simple",
   "repository": "https://github.com/AbhijithNT/TelegramChatIDBot",
-  "keywords": ["telegram", "nodejs", "telegram bot" ,],
+  "keywords": ["telegram", "nodejs", "telegram bot"],
   "env": {
     "BOT_TOKEN": {
       "description": "Your Bot token from @Botfather",
